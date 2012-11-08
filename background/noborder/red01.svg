@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="100%" height="100%" viewBox="0 0 48 48"
+   id="svg2383">
+  <defs
+     id="defs2385">
+    <linearGradient
+       id="linearGradient3207">
+      <stop
+         id="stop3209"
+         style="stop-color:#ac0303;stop-opacity:0.36862746"
+         offset="0" />
+      <stop
+         id="stop3211"
+         style="stop-color:#a33021;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3197">
+      <stop
+         id="stop3199"
+         style="stop-color:#c06624;stop-opacity:0.36842105"
+         offset="0" />
+      <stop
+         id="stop3201"
+         style="stop-color:#85473f;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3185">
+      <stop
+         id="stop3187"
+         style="stop-color:#5a1111;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3189"
+         style="stop-color:#5a2b2b;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3273">
+      <stop
+         id="stop3275"
+         style="stop-color:#020306;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3277"
+         style="stop-color:#333853;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="43.481651"
+       x2="52.974037"
+       y2="3.8275092"
+       id="linearGradient3279"
+       xlink:href="#linearGradient3273"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="18.334764"
+       cy="37.081547"
+       r="24"
+       fx="18.334764"
+       fy="37.081547"
+       id="radialGradient3193"
+       xlink:href="#linearGradient3185"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2360514,2.6223984e-4,-3.2780517e-4,1.5450882,-4.3157912,-20.217523)" />
+    <radialGradient
+       cx="29.683464"
+       cy="36.68969"
+       r="24"
+       fx="29.683464"
+       fy="36.68969"
+       id="radialGradient3203"
+       xlink:href="#linearGradient3197"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3487197e-2,-1.622312,1.4334332,1.1916941e-2,-18.692139,86.96325)" />
+    <linearGradient
+       x1="22.14185"
+       y1="48"
+       x2="22.070728"
+       y2="0"
+       id="linearGradient3215"
+       xlink:href="#linearGradient3207"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="48"
+     height="48"
+     ry="0"
+     x="0"
+     y="0"
+     id="rect3271"
+     style="opacity:1;fill:url(#linearGradient3279);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <rect
+     width="48"
+     height="48"
+     ry="0"
+     x="0"
+     y="0"
+     id="rect2413"
+     style="opacity:1;fill:url(#radialGradient3193);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <rect
+     width="48"
+     height="48"
+     ry="0"
+     x="0"
+     y="0"
+     id="rect3195"
+     style="opacity:1;fill:url(#radialGradient3203);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <rect
+     width="48"
+     height="48"
+     ry="0"
+     x="0"
+     y="0"
+     id="rect3205"
+     style="opacity:1;fill:url(#linearGradient3215);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
