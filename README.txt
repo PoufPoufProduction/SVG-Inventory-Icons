@@ -6,7 +6,7 @@ SVG Inventory Icons is a graphic library which contains icons in SVG 1.0 format.
 COPYRIGHT AND LICENSE
 =====================
 
-All icons in the library are released under the two licenses GNU GPL version 3 and LGPL version 3. Later versions are permitted.
+All icons in the library are released under the GNU GPL and GNU LGPL version 3. Later versions are permitted.
 
 LINKS
 =====

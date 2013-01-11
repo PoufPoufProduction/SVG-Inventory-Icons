@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="100%" height="100%" viewBox="0 0 48 48" id="ontology">
+<defs id="defs2385">
+<linearGradient id="lg5044">
+<stop id="s5046" style="stop-color:#c5fbed;stop-opacity:1" offset="0"/>
+<stop id="s5048" style="stop-color:#6feee1;stop-opacity:0" offset="1"/>
+</linearGradient>
+<linearGradient id="lg3220">
+<stop id="s3222" style="stop-color:#b9f6f9;stop-opacity:1" offset="0"/>
+<stop id="s3224" style="stop-color:#0c5e68;stop-opacity:1" offset="1"/>
+</linearGradient>
+<linearGradient id="lg3210">
+<stop id="s3212" style="stop-color:#1e7e7e;stop-opacity:1" offset="0"/>
+<stop id="s3214" style="stop-color:#82faf4;stop-opacity:1" offset="1"/>
+</linearGradient>
+<linearGradient x1="24" y1="48" x2="24" y2="0" id="lg3496" xlink:href="#lg3210" gradientUnits="userSpaceOnUse"/>
+<radialGradient cx="24" cy="43.22" r="23.5" fx="24" fy="43.22" id="rg3597" xlink:href="#lg3220" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.35,0,0,1.81,-32.43,-35.37)"/>
+<radialGradient cx="23.99" cy="28.61" r="23.5" fx="23.99" fy="28.61" id="rg5040" xlink:href="#lg5044" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.58,4.67e-8,-4.73e-8,1.60,-22.68,-33.34)"/>
+</defs>
+<path d="M 9.62,0.5 C 4.56,0.5 0.5,4.56 0.5,9.62 L 0.5,38.37 C 0.5,43.43 4.56,47.5 9.62,47.5 L 38.37,47.5 C 43.43,47.5 47.5,43.43 47.5,38.37 L 47.5,9.62 C 47.5,4.56 43.43,0.5 38.37,0.5 L 9.62,0.5 z" id="r3218" style="fill:url(#rg3597);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 9.62,0.5 C 4.56,0.5 0.5,4.56 0.5,9.62 L 0.5,18.78 C 6.99,21.89 15.15,23.75 24,23.75 C 32.84,23.75 41.00,21.89 47.5,18.78 L 47.5,9.62 C 47.5,4.56 43.43,0.5 38.37,0.5 L 9.62,0.5 z" id="p3228" style="fill:#caeef2;fill-opacity:0.22;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 9.62,0.5 C 4.56,0.5 0.5,4.56 0.5,9.62 L 0.5,38.37 C 0.5,43.43 4.56,47.5 9.62,47.5 L 38.37,47.5 C 43.43,47.5 47.5,43.43 47.5,38.37 L 47.5,9.62 C 47.5,4.56 43.43,0.5 38.37,0.5 L 9.62,0.5 z" id="p5032" style="fill:url(#rg5040);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<rect width="47" height="47" ry="9.12" x="0.5" y="0.5" id="r2393" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#lg3496);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</svg>
