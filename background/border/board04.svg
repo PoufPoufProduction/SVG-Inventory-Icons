@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 48 48" id="_board04" style="display:inline">
+<defs id="defs2385">
+<linearGradient id="lg3175">
+<stop id="s3177" style="stop-color:#f0fa3b;stop-opacity:0.56" offset="0"/>
+<stop id="s3179" style="stop-color:#ff8e4c;stop-opacity:0" offset="1"/>
+</linearGradient>
+<linearGradient id="lg3165">
+<stop id="s3167" style="stop-color:#d6cb0e;stop-opacity:1" offset="0"/>
+<stop id="s3169" style="stop-color:#ffe950;stop-opacity:1" offset="1"/>
+</linearGradient>
+<radialGradient cx="35.04" cy="-3.26" r="24" fx="35.04" fy="-3.26" id="rg2418" xlink:href="#lg3175" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.14,-1.49,1.52,0.14,36.66,89.91)"/>
+<linearGradient x1="41.27" y1="46.27" x2="7.42" y2="6.28" id="lg2421" xlink:href="#lg3165" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g>
+<rect width="48" height="48" x="0" y="0" id="r2393" style="fill:url(#lg2421);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<rect width="48" height="48" x="0" y="0" id="r3173" style="fill:url(#rg2418);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 1.93,0 C 2.05,6.59 2.19,13.13 2.12,13.25 C 2.09,13.28 1.19,13.66 0,14.15 L 0,30.53 C 1.64,31.04 2.87,31.42 2.90,31.46 C 3.00,31.59 3.55,40.44 4.06,48 L 12.21,48 C 16.19,42.31 20.30,36.42 20.43,36.37 C 20.68,36.28 46.38,42.97 46.53,42.75 C 46.67,42.52 30.54,21.45 30.53,21.18 C 30.52,20.96 40.64,5.08 43.71,0 L 39.46,0 C 32.10,2.49 19.40,6.95 19.21,6.90 C 19.12,6.87 16.43,3.67 13.37,0 L 1.93,0 z" id="p3223" style="opacity:1;fill:#f7e8c2;fill-opacity:0.24;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 39.65,0 C 39.41,1.55 39.11,3.47 39.09,3.5 C 39.02,3.57 28.95,5.61 28.93,5.71 C 28.92,5.82 38.13,10.40 38.18,10.5 C 38.23,10.59 37.06,20.83 37.15,20.87 C 37.25,20.91 44.46,13.55 44.56,13.53 C 44.59,13.52 46.42,14.35 48,15.06 L 48,1.87 C 47.40,1.96 46.08,2.19 46.06,2.18 C 46.03,2.17 45.24,0.80 44.78,0 L 39.65,0 z M 8.34,0.62 C 8.30,0.55 2.56,1.48 0,1.87 L 0,15.06 C 2.80,16.31 6.07,17.76 6.12,17.71 C 6.19,17.64 1.42,8.50 1.43,8.40 C 1.45,8.30 8.39,0.71 8.34,0.62 z M 14.62,4.31 C 14.58,4.31 13.28,7.69 13.25,7.71 C 13.21,7.73 9.60,7.65 9.59,7.68 C 9.58,7.72 12.36,10.02 12.37,10.06 C 12.38,10.09 11.19,13.50 11.21,13.53 C 11.24,13.55 14.30,11.59 14.34,11.59 C 14.38,11.59 17.25,13.77 17.28,13.75 C 17.31,13.72 16.39,10.25 16.40,10.21 C 16.41,10.18 19.38,8.12 19.37,8.09 C 19.36,8.05 15.74,7.83 15.71,7.81 C 15.69,7.78 14.66,4.31 14.62,4.31 z M 27.18,13.81 C 27.13,13.79 24.32,18.01 24.28,18.03 C 24.23,18.04 19.27,16.83 19.25,16.87 C 19.22,16.91 22.37,20.91 22.37,20.96 C 22.37,21.02 19.68,25.33 19.71,25.37 C 19.75,25.41 24.54,23.67 24.59,23.68 C 24.64,23.70 27.92,27.58 27.96,27.56 C 28.01,27.54 27.81,22.44 27.84,22.40 C 27.87,22.36 32.56,20.45 32.56,20.40 C 32.55,20.35 27.68,18.97 27.65,18.93 C 27.62,18.89 27.23,13.82 27.18,13.81 z M 12.21,22.53 C 12.13,22.52 9.06,29.98 9,30.03 C 8.93,30.07 0.87,29.70 0.84,29.78 C 0.81,29.85 6.94,35.10 6.96,35.18 C 6.98,35.26 4.18,42.82 4.25,42.87 C 4.31,42.92 11.16,38.68 11.25,38.68 C 11.33,38.69 17.64,43.73 17.71,43.68 C 17.78,43.64 15.87,35.79 15.90,35.71 C 15.93,35.64 22.67,31.17 22.65,31.09 C 22.63,31.01 14.59,30.39 14.53,30.34 C 14.46,30.29 12.30,22.53 12.21,22.53 z M 39.68,25.31 C 39.63,25.31 37.79,29.91 37.75,29.93 C 37.70,29.96 32.76,29.79 32.75,29.84 C 32.73,29.89 36.54,33.04 36.56,33.09 C 36.57,33.14 34.89,37.81 34.93,37.84 C 34.97,37.87 39.16,35.21 39.21,35.21 C 39.26,35.22 43.17,38.27 43.21,38.25 C 43.26,38.22 42.04,33.42 42.06,33.37 C 42.08,33.32 46.16,30.54 46.15,30.5 C 46.14,30.45 41.19,30.12 41.15,30.09 C 41.11,30.06 39.73,25.31 39.68,25.31 z M 40.78,41.18 C 40.71,41.20 40.13,44.94 39.65,48 L 44.78,48 C 43.32,45.48 40.85,41.17 40.78,41.18 z" id="p3198" style="opacity:1;fill:#e0cb40;fill-opacity:0.60;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 48,0 L 47,1 L 47,47 L 1,47 L 0,48 L 48,48 L 48,0 z" id="r3235" style="fill:#fffee6;fill-opacity:0.29;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 0,0 L 0,48 L 1,47 L 1,1 L 47,1 L 48,0 L 0,0 z" id="p3240" style="fill:#961f15;fill-opacity:0.18;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</g>
+</svg>

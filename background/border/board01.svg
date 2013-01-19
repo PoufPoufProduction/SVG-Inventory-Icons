@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 48 48" id="_board01" style="display:inline">
+<defs id="defs2385">
+<linearGradient id="lg3175">
+<stop id="s3177" style="stop-color:#cf3434;stop-opacity:0.56" offset="0"/>
+<stop id="s3179" style="stop-color:#ff724c;stop-opacity:0" offset="1"/>
+</linearGradient>
+<linearGradient id="lg3165">
+<stop id="s3167" style="stop-color:#943131;stop-opacity:1" offset="0"/>
+<stop id="s3169" style="stop-color:#ff6d5e;stop-opacity:1" offset="1"/>
+</linearGradient>
+<radialGradient cx="35.05" cy="-3.26" r="24" fx="35.05" fy="-3.26" id="rg4182" xlink:href="#lg3175" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.14,-1.49,1.52,0.14,36.66,89.91)"/>
+<linearGradient x1="41.28" y1="46.28" x2="7.42" y2="6.28" id="lg4185" xlink:href="#lg3165" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g>
+<rect width="48" height="48" x="0" y="0" id="r2393" style="fill:url(#lg4185);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<rect width="48" height="48" x="0" y="0" id="r3173" style="fill:url(#rg4182);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 29.09,1.21 C 25.92,1.38 22.74,3.42 20.93,8 C 16.48,19.27 27.95,32.55 29.62,33.21 C 30.85,33.70 41.16,32.36 48,27.25 L 48,8.06 C 45.04,7.16 41.50,7.80 38.56,10.62 C 38.35,4.77 33.73,0.97 29.09,1.21 z M 15.53,27.84 C 12.60,28.09 9.83,30.32 9.28,34.18 C 6.67,31.09 2.69,30.75 0,32.46 L 0,45.18 C 0.96,46.28 2.10,47.20 3.31,48 L 18.31,48 C 21.16,44.29 24.27,38.50 22.75,33.37 C 21.54,29.32 18.46,27.58 15.53,27.84 z" id="p3193" style="fill:#ff8686;fill-opacity:0.12;fill-rule:evenodd;stroke:none;"/>
+<path d="M 31.53,1.37 C 30.48,1.39 29.47,2.11 29.18,3.46 C 27.62,1.33 24.16,2.39 24.87,5.56 C 25.58,8.73 30.12,9.94 30.59,9.84 C 31.05,9.73 34.63,6.48 33.96,3.53 C 33.64,2.06 32.57,1.35 31.53,1.37 z M 9.03,4.5 C 7.75,4.43 6.47,5.24 6.06,7.18 C 5.23,11.07 9.64,14.75 10.21,14.87 C 10.78,14.99 16.41,13.17 17.18,9.56 C 17.95,5.98 13.92,4.38 11.90,7.09 C 11.58,5.51 10.30,4.56 9.03,4.5 z M 39.71,15.68 C 38.93,15.77 38.14,16.32 37.65,17.43 C 36.35,20.41 39.30,24.08 39.75,24.28 C 40.18,24.47 44.97,23.92 46.18,21.15 C 47.39,18.40 44.41,16.47 42.34,18.31 C 42.34,16.65 41.03,15.54 39.71,15.68 z M 19.90,17.90 C 18.45,17.99 17.01,18.98 16.40,21.15 C 15.01,26.12 20.45,31.26 21.18,31.46 C 21.91,31.67 29.35,29.77 30.65,25.15 C 31.94,20.57 26.84,18.15 24,21.5 C 23.67,19.16 21.76,17.78 19.90,17.90 z M 10.65,25.78 C 9.91,25.82 9.19,26.37 9.03,27.34 C 7.85,25.87 5.42,26.71 6.03,28.93 C 6.63,31.16 9.91,31.90 10.25,31.81 C 10.57,31.72 13.00,29.29 12.43,27.21 C 12.15,26.19 11.39,25.73 10.65,25.78 z M 41.03,31.65 C 39.26,31.64 37.56,32.96 37.56,35.68 C 37.56,40.53 43.78,43.78 44.5,43.78 C 44.83,43.78 46.42,42.96 48,41.62 L 48,31.71 C 46.64,31.68 45.24,32.43 44.5,34.06 C 43.81,32.48 42.40,31.66 41.03,31.65 z M 0,31.71 L 0,41.62 C 1.72,40.15 3.43,38.04 3.43,35.68 C 3.43,33.16 1.76,31.76 0,31.71 z M 26.06,36.71 C 25.15,36.81 24.29,37.49 23.96,38.87 C 23.22,42.04 26.78,45.13 27.25,45.25 C 27.71,45.35 32.33,43.97 33.03,41.03 C 33.71,38.11 30.45,36.72 28.75,38.90 C 28.48,37.44 27.23,36.59 26.06,36.71 z M 12.28,39.43 C 11.76,39.49 11.27,39.86 10.96,40.59 C 10.14,42.54 12.08,44.90 12.37,45.03 C 12.65,45.15 15.76,44.75 16.53,42.93 C 17.28,41.14 15.35,39.90 14.03,41.12 C 14.01,40.05 13.13,39.33 12.28,39.43 z" id="p3201" style="fill:#e33c3c;fill-opacity:0.30;fill-rule:evenodd;stroke:none;"/>
+<path d="M 48,0 L 47,1 L 47,47 L 1,47 L 0,48 L 48,48 L 48,0 z" id="r3235" style="fill:#ff9999;fill-opacity:0.38;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 0,0 L 0,48 L 1,47 L 1,1 L 47,1 L 48,0 L 0,0 z" id="p3240" style="fill:#961515;fill-opacity:0.39;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</g>
+</svg>

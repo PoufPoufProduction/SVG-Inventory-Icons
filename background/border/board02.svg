@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 48 48" id="_board02" style="display:inline">
+<defs id="defs2385">
+<linearGradient x1="41.28" y1="46.28" x2="7.42" y2="6.28" id="lg4185-921" xlink:href="#lg3165-42" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="lg3165-42">
+<stop id="s4419" style="stop-color:#313194;stop-opacity:1" offset="0"/>
+<stop id="s4421" style="stop-color:#5e6dff;stop-opacity:1" offset="1"/>
+</linearGradient>
+<radialGradient cx="35.05" cy="-3.26" r="24" fx="35.05" fy="-3.26" id="rg4182-512" xlink:href="#lg3175-410" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.14,-1.49,1.52,0.14,36.66,89.91)"/>
+<linearGradient id="lg3175-410">
+<stop id="s4413" style="stop-color:#3434cf;stop-opacity:0.56" offset="0"/>
+<stop id="s4415" style="stop-color:#4c72ff;stop-opacity:0" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<rect width="48" height="48" x="0" y="0" id="r2393" style="fill:url(#lg4185-921);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<rect width="48" height="48" x="0" y="0" id="r3173" style="fill:url(#rg4182-512);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 23.59,0 C 23.33,1.22 23.21,2.50 23.21,3.81 C 23.21,14.15 31.62,22.53 41.96,22.53 C 44.08,22.53 46.10,22.17 48,21.53 L 48,0 L 23.59,0 z M 7.84,2.96 C 4.98,2.96 2.32,3.74 0,5.06 L 0,32.75 C 2.32,34.06 4.98,34.84 7.84,34.84 C 16.64,34.84 23.78,27.70 23.78,18.90 C 23.78,10.10 16.64,2.96 7.84,2.96 z M 39.15,27.03 C 26.68,27.03 16.33,36.09 14.34,48 L 48,48 L 48,28.62 C 45.24,27.59 42.26,27.03 39.15,27.03 z" id="p4480" style="opacity:1;fill:#7179dd;fill-opacity:0.12;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 18.75,0 C 18.75,2.93 21.12,5.31 24.06,5.31 C 26.99,5.31 29.37,2.93 29.37,0 L 18.75,0 z M 9.78,3.53 C 6.22,3.53 3.34,6.41 3.34,9.96 C 3.34,13.52 6.22,16.37 9.78,16.37 C 13.33,16.37 16.21,13.52 16.21,9.96 C 16.21,6.41 13.33,3.53 9.78,3.53 z M 36.93,4.90 C 34.15,4.90 31.87,7.18 31.87,9.96 C 31.87,12.74 34.15,15 36.93,15 C 39.71,15 41.96,12.74 41.96,9.96 C 41.96,7.18 39.71,4.90 36.93,4.90 z M 20.12,15.84 C 17.80,15.84 15.93,17.71 15.93,20.03 C 15.93,22.34 17.80,24.21 20.12,24.21 C 22.44,24.21 24.34,22.34 24.34,20.03 C 24.34,17.71 22.44,15.84 20.12,15.84 z M 0,21.15 L 0,39.06 C 0.09,39.06 0.18,39.06 0.28,39.06 C 5.22,39.06 9.21,35.03 9.21,30.09 C 9.21,25.15 5.22,21.15 0.28,21.15 C 0.18,21.15 0.09,21.15 0,21.15 z M 48,21.15 C 43.19,21.30 39.34,25.24 39.34,30.09 C 39.34,34.93 43.19,38.91 48,39.06 L 48,21.15 z M 32.71,29.81 C 29.78,29.81 27.40,32.19 27.40,35.12 C 27.40,38.05 29.78,40.43 32.71,40.43 C 35.65,40.43 38.03,38.05 38.03,35.12 C 38.03,32.19 35.65,29.81 32.71,29.81 z M 15.93,34 C 14.08,34 12.59,35.52 12.59,37.37 C 12.59,39.22 14.08,40.71 15.93,40.71 C 17.79,40.71 19.31,39.22 19.31,37.37 C 19.31,35.52 17.79,34.00 15.93,34 z M 24.06,42.68 C 21.12,42.68 18.75,45.06 18.75,48 L 29.37,48 C 29.37,45.06 26.99,42.68 24.06,42.68 z" id="p4490" style="opacity:1;fill:#2f3ac7;fill-opacity:0.30;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 48,0 L 47,1 L 47,47 L 1,47 L 0,48 L 48,48 L 48,0 z" id="r3235" style="fill:#9999ff;fill-opacity:0.38;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<path d="M 0,0 L 0,48 L 1,47 L 1,1 L 47,1 L 48,0 L 0,0 z" id="p3240" style="fill:#151596;fill-opacity:0.39;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</g>
+</svg>
