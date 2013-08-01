@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 48 48"
+   id="_board00"
+   style="display:inline">
+  <defs
+     id="defs2385">
+    <linearGradient
+       id="lg3175">
+      <stop
+         id="s3177"
+         style="stop-color:#fae5b9;stop-opacity:0.5"
+         offset="0" />
+      <stop
+         id="s3179"
+         style="stop-color:#d8ac85;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="lg3165">
+      <stop
+         id="s3167"
+         style="stop-color:#f2e3c1;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="s3169"
+         style="stop-color:#f7f2e9;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="35.040001"
+       cy="-3.26"
+       r="24"
+       fx="35.040001"
+       fy="-3.26"
+       id="rg2418"
+       xlink:href="#lg3175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14,-1.49,1.52,0.14,36.66,89.91)" />
+    <linearGradient
+       x1="41.27"
+       y1="46.27"
+       x2="7.4200001"
+       y2="6.2800002"
+       id="lg2421"
+       xlink:href="#lg3165"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="41.27"
+       y1="46.27"
+       x2="7.4200001"
+       y2="6.2800002"
+       id="linearGradient2400"
+       xlink:href="#lg3165"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="44"
+     height="44"
+     ry="5"
+     x="2"
+     y="2"
+     id="r2393"
+     style="fill:url(#linearGradient2400);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

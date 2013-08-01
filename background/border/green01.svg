@@ -13,7 +13,9 @@
 <linearGradient x1="1.69" y1="46.04" x2="52.27" y2="9.56" id="lg3217" xlink:href="#lg3211" gradientUnits="userSpaceOnUse"/>
 <linearGradient x1="0.93" y1="23.99" x2="47.06" y2="23.99" id="lg3235" xlink:href="#lg3229" gradientUnits="userSpaceOnUse"/>
 </defs>
+<g>
 <rect width="47.5" height="47.5" ry="4" x="0.25" y="0.25" id="r2593" style="opacity:1;fill:url(#lg3217);fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
 <rect width="44.11" height="44.11" ry="2.38" x="1.92" y="1.92" id="r3219" style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#lg3235);stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
 <rect width="47" height="47" ry="4" x="0.5" y="0.5" id="r3365" style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#352222;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</g>
 </svg>
