@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 48 48"
+   id="svg2383">
+  <defs
+     id="defs2385" />
+  <path
+     d="M 6.5,0.5 C 3.176,0.5 0.5,3.176 0.5,6.5 L 0.5,41.5 C 0.5,44.824 3.176,47.5 6.5,47.5 L 41.5,47.5 C 44.824,47.5 47.5,44.824 47.5,41.5 L 47.5,6.5 C 47.5,3.176 44.824,0.5 41.5,0.5 L 6.5,0.5 z"
+     id="r3173"
+     style="fill:#faf1b8;fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 40.532156,0.5 C 42.345691,0.5 43.965001,1.2987428 45.063406,2.5625 C 44.959462,8.0994474 44.847052,13.146964 44.907156,13.25 C 44.930069,13.272913 45.752638,13.613176 46.532156,13.9375 L 46.532156,30.6875 C 45.309265,31.067948 44.15076,31.435611 44.125906,31.46875 C 44.030565,31.592694 43.520936,39.667069 43.032156,46.96875 C 42.273702,47.31383 41.422597,47.5 40.532156,47.5 L 34.469656,47.5 C 30.610478,41.98203 26.720579,36.423432 26.594656,36.375 C 26.344656,36.285001 0.65090611,42.97 0.50090611,42.75 C 0.36090511,42.52 16.490906,21.4575 16.500906,21.1875 C 16.510549,20.975361 7.2071371,6.3914034 3.7821561,0.78125 C 4.3379911,0.61219817 4.9196211,0.5 5.5321561,0.5 L 9.0321561,0.5 C 16.492067,3.0400781 27.634285,6.9533872 27.813406,6.90625 C 27.898788,6.877789 30.389484,3.9292178 33.250906,0.5 L 40.532156,0.5 z"
+     id="p3223"
+     style="fill:#f2eb92;fill-opacity:1;fill-rule:evenodd;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <rect
+     width="47"
+     height="47"
+     ry="6"
+     x="0.5"
+     y="0.5"
+     id="rect2526"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b16537;marker:none;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
